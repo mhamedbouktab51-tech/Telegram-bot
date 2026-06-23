@@ -2,8 +2,9 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
 # 🔑 NEW TOKEN (from BotFather)
-TOKEN = "8616456401:AAG_unU6wElbbV3XI6A7C1OjUhb13ooaYDw"
-
+import os
+TOKEN = 
+"8616456401:AAH2G1eF7sQy3Kg2K5Ob1YWn-wnSK1QjoII")
 # =========================
 # LINKS (1–5 SYSTEM)
 # =========================
